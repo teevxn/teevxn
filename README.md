@@ -1,4 +1,12 @@
-## Hi there 👋
+ 
+# Hola, Soy Steven✌️
+
+Aquí encontrarás proyectos hechos en 🎈Python y 🥇C#, donde aplico lo que aprendo en mi carrera de Ingeniería de Sistemas Computacionales. Este espacio está pensado para compartir mi progreso con otros estudiantes, desarrolladores y empresas que quieran conocer mi trabajo.
+
+# Estadisticas de GitHub
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teevxn&theme=dark&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
+
 
 <!--
 **teevxn/teevxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
